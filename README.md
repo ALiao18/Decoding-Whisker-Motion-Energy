@@ -10,13 +10,13 @@ Analysis and Neural Decoding Using the IBL Dataset. This repository contains the
 </p>
 
 <p align="center">
-  <em>Preview of the Neuroscience 2025 poster. See full PDF in <a href="poster/poster.pdf">poster/poster.pdf</a>.</em>
+  <em>See full PDF in <a href="poster/poster.pdf">poster/poster.pdf</a>.</em>
 </p>
 
 All data were obtained programmatically using the
 International Brain Laboratory [(IBL) ONE API](https://int-brain-lab.github.io/ONE/). 
 
-The repo is intentionally notebook-first and self-contained: every computation, figure, and statistical test is reproducible directly from the notebooks. Due to large size of neural spike matrix, we recommend having at least 30GB RAM. Google colab's high RAM runtimes are sufficient. 
+The repo is intentionally notebook-first and self-contained: every computation, figure, and statistical test is reproducible directly from the notebooks. Due to large size of neural spike matrix, we recommend having at least 32GB RAM. Google colab's high RAM runtimes are sufficient. 
 
 # Overview
 The project has two major components:
